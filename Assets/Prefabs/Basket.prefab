@@ -13,7 +13,8 @@ GameObject:
   - component: {fileID: 2453320800383212247}
   - component: {fileID: 1870655166060895791}
   - component: {fileID: 2570243091944754553}
-  m_Layer: 0
+  - component: {fileID: -4553556679746414393}
+  m_Layer: 8
   m_Name: Basket
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -136,3 +137,15 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
+--- !u!114 &-4553556679746414393
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3726450882531413570}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d2067e50bfc233e4da4aa1c225578064, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
